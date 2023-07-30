@@ -63,6 +63,7 @@ We can use it to detect toxicity in the sentence and can be used as a moderator.
 You can test the crawling script in your own development environment. This section shows you how:
 
 ## Prerequisites
+0. Create an account at huggingface and <a href="https://huggingface.co/settings/tokens">Get Token</a>
 1. Open cmd type 'git clone https://github.com/pnkr01/checktoxicity'
 2. cd checktoxicity
 3. Create virtual environment run python3 -m pip install --user virtualenv
