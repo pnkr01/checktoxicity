@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='checktoxicity',
-    version='0.1.1',
+    version='0.1.2',
     description='A package for content moderation using Hugging Face Toxic-BERT model',
     author='Pawan Kumar',
     author_email='pawankumar49871@gmail.com',
