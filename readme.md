@@ -77,8 +77,8 @@ You can test the crawling script in your own development environment. This secti
 ```python
 from toxic.toxic import Toxic
 
-r = Toxic("your query","your token ID")
-print(r.getScoreFromAPI())
+response = Toxic("your query","your token ID")
+print(response.getScoreFromAPI())
 ```
 
 ## APP Screenshots
