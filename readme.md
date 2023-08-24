@@ -85,8 +85,7 @@ print(response.getScoreFromAPI())
 
 <div align="center">
   <p float="left">
-  <img src="https://github.com/pnkr01/checktoxicity/assets/83778936/8026c8a9-adb3-47c3-b638-c763166b4829" width="250"/>
-  <img src="https://github.com/pnkr01/checktoxicity/assets/83778936/f81bc601-2457-4e2c-aa62-619613fce93f" width="250"/>               
+  <img src="https://github.com/pnkr01/checktoxicity/assets/83778936/675156fc-e6cd-42bc-af06-45b06279dc00" width="250"/>          
 </div>
 
 
