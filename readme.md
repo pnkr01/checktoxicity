@@ -40,7 +40,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#app-screenshots">App ScreenShots</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -80,12 +79,5 @@ from toxic.toxic import Toxic
 response = Toxic("your query","your token ID")
 print(response.getScoreFromAPI())
 ```
-
-## APP Screenshots
-
-<div align="center">
-  <p float="left">
-  <img src="https://github.com/pnkr01/checktoxicity/assets/83778936/675156fc-e6cd-42bc-af06-45b06279dc00" width="250"/>          
-</div>
 
 
